@@ -1,0 +1,7 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "telescope_ado_organization",
+        "telescope_ado_wiql"
+    ]
+}
