@@ -17,6 +17,6 @@ return require("telescope").register_extension {
     telescope_ado_organization = ext_config.organization or ""
   end,
   exports = {
-    work_items = require("telescope._extensions.work_items").work_items
+    work_items = require("telescope._extensions.azure_devops.work_items").work_items
   },
 }
